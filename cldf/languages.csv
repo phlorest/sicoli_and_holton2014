@@ -1,0 +1,41 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Glottolog_Name
+aht,aht,,61.7068,-144.889,ahte1237,,Ahtena
+apc,apc,,33.1291,-105.566,mesc1238,,Mescalero-Chiricahua Apache
+apj,apj,,36.8079,-107.007,jica1244,,Jicarilla Apache
+apk,apk,,34.9077,-98.2461,kiow1264,,Kiowa Apache
+apl,apl,,33.2748,-105.819,lipa1241,,Lipan Apache
+apw,apw,,33.8574,-110.123,west2615,,Western Apache
+bea,bea,,56.7984,-120.352,beav1236,,Beaver
+cco,cco,,44.5177,-119.605,coqu1236,,Coquille
+chp,chp,,58.98,-104.44,chip1261,,Chipewyan
+crx,crx,,54.3768,-124.328,carr1249,,Central Carrier
+dgr,dgr,,62.3823,-114.193,dogr1252,,Dogrib
+eya,eya,,60.4232,-144.762,eyak1241,,Eyak
+gce,gce,,45.3914,-120.75,gali1261,,Galice
+gwi,gwi,,67.4307,-142.963,gwic1235,,Gwich'in
+haa,haa,,64.5002,-140.352,hann1241,,Han
+hax,hax,,53.2616,-132.008,sout2956,,Southern Haida
+hoi,hoi,,62.7266,-159.831,holi1241,,Holikachuk
+hup,hup,,41.0982,-123.68,hupa1239,,Hupa-Chilula
+ing,ing,,62.0697,-160.044,dege1248,,Degexit'an
+ket,ket,,63.7551,87.5466,kett1243,,Ket
+kkz,kkz,,61.9942,-132.412,kask1239,,Kaska
+koy,koy,,65.6093,-154.229,koyu1237,,Koyukon
+kto,kto,,39.7002,-123.432,kato1244,,Kato
+kuu,kuu,,62.2976,-155.951,uppe1438,,Upper Kuskokwim
+mtl,mtl,,40.4321,-122.863,matt1238,,Mattole-Bear River
+nav,nav,,36.33,-109.38,nava1243,,Navajo
+scsh,scsh,,63.2671,-123.641,nort2942,,North Slavey
+srs,srs,,50.8822,-114.301,sars1236,,Sarsi
+taa,taa,,64.8834,-149.451,lowe1425,,Lower Tanana
+tau,tau,,62.6867,-141.37,uppe1437,,Upper Tanana
+tcb,tcb,,63.4046,-143.338,tana1290,,Tanacross
+tceS,tceS,,60.7823,-136.573,sout2957,,Southern Tutchone
+tfn,tfn,,60.4712,-150.759,tana1289,,Dena'ina
+tli,tli,,59.4447,-135.29,tlin1245,,Tlingit
+tol,tol,,41.9192,-124.1,tolo1259,,Tolowa-Chetco
+ttmN,ttmN,,62.8235,-136.644,nort2941,,Northern Tutchone
+txc,txc,,55.5,-130.08,tset1236,,Tsetsaut
+wlk,wlk,,39.1513,-123.284,wail1244,,Eel River Athabaskan
+xsl,xsl,,59.8794,-117.047,sout2959,,South Slavey
+zko,zko,,55.0,94.0,kott1239,,Kott-Assan
