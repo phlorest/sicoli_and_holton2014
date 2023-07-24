@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Sicoli & Holton 2014 'Dene-Yenesian (Sicoli & Holton 2014)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,20 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Sicoli, Mark A."
+        },
+        {
+            "name": "Holton, Gary"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
