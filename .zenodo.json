@@ -1,0 +1,29 @@
+{
+    "title": "Phlorest phylogeny derived from Sicoli & Holton 2014 'Dene-Yenesian (Sicoli & Holton 2014)'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Sicoli MA &amp; Holton G (2014) Linguistic phylogenies support back-migration from Beringia to Asia. PLoS One 9(3):e91722.</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Sicoli, Mark A."
+        },
+        {
+            "name": "Holton, Gary"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        }
+    ]
+}

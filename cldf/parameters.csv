@@ -1,117 +1,117 @@
-ID,Name,Description,Nexus_File
-1,Site 1,,data.nex
-2,Site 2,,data.nex
-3,Site 3,,data.nex
-4,Site 4,,data.nex
-5,Site 5,,data.nex
-6,Site 6,,data.nex
-7,Site 7,,data.nex
-8,Site 8,,data.nex
-9,Site 9,,data.nex
-10,Site 10,,data.nex
-11,Site 11,,data.nex
-12,Site 12,,data.nex
-13,Site 13,,data.nex
-14,Site 14,,data.nex
-15,Site 15,,data.nex
-16,Site 16,,data.nex
-17,Site 17,,data.nex
-18,Site 18,,data.nex
-19,Site 19,,data.nex
-20,Site 20,,data.nex
-21,Site 21,,data.nex
-22,Site 22,,data.nex
-23,Site 23,,data.nex
-24,Site 24,,data.nex
-25,Site 25,,data.nex
-26,Site 26,,data.nex
-27,Site 27,,data.nex
-28,Site 28,,data.nex
-29,Site 29,,data.nex
-30,Site 30,,data.nex
-31,Site 31,,data.nex
-32,Site 32,,data.nex
-33,Site 33,,data.nex
-34,Site 34,,data.nex
-35,Site 35,,data.nex
-36,Site 36,,data.nex
-37,Site 37,,data.nex
-38,Site 38,,data.nex
-39,Site 39,,data.nex
-40,Site 40,,data.nex
-41,Site 41,,data.nex
-42,Site 42,,data.nex
-43,Site 43,,data.nex
-44,Site 44,,data.nex
-45,Site 45,,data.nex
-46,Site 46,,data.nex
-47,Site 47,,data.nex
-48,Site 48,,data.nex
-49,Site 49,,data.nex
-50,Site 50,,data.nex
-51,Site 51,,data.nex
-52,Site 52,,data.nex
-53,Site 53,,data.nex
-54,Site 54,,data.nex
-55,Site 55,,data.nex
-56,Site 56,,data.nex
-57,Site 57,,data.nex
-58,Site 58,,data.nex
-59,Site 59,,data.nex
-60,Site 60,,data.nex
-61,Site 61,,data.nex
-62,Site 62,,data.nex
-63,Site 63,,data.nex
-64,Site 64,,data.nex
-65,Site 65,,data.nex
-66,Site 66,,data.nex
-67,Site 67,,data.nex
-68,Site 68,,data.nex
-69,Site 69,,data.nex
-70,Site 70,,data.nex
-71,Site 71,,data.nex
-72,Site 72,,data.nex
-73,Site 73,,data.nex
-74,Site 74,,data.nex
-75,Site 75,,data.nex
-76,Site 76,,data.nex
-77,Site 77,,data.nex
-78,Site 78,,data.nex
-79,Site 79,,data.nex
-80,Site 80,,data.nex
-81,Site 81,,data.nex
-82,Site 82,,data.nex
-83,Site 83,,data.nex
-84,Site 84,,data.nex
-85,Site 85,,data.nex
-86,Site 86,,data.nex
-87,Site 87,,data.nex
-88,Site 88,,data.nex
-89,Site 89,,data.nex
-90,Site 90,,data.nex
-91,Site 91,,data.nex
-92,Site 92,,data.nex
-93,Site 93,,data.nex
-94,Site 94,,data.nex
-95,Site 95,,data.nex
-96,Site 96,,data.nex
-97,Site 97,,data.nex
-98,Site 98,,data.nex
-99,Site 99,,data.nex
-100,Site 100,,data.nex
-101,Site 101,,data.nex
-102,Site 102,,data.nex
-103,Site 103,,data.nex
-104,Site 104,,data.nex
-105,Site 105,,data.nex
-106,Site 106,,data.nex
-107,Site 107,,data.nex
-108,Site 108,,data.nex
-109,Site 109,,data.nex
-110,Site 110,,data.nex
-111,Site 111,,data.nex
-112,Site 112,,data.nex
-113,Site 113,,data.nex
-114,Site 114,,data.nex
-115,Site 115,,data.nex
-116,Site 116,,data.nex
+ID,Name,Description,ColumnSpec,Nexus_File
+1,1,,,data
+2,2,,,data
+3,3,,,data
+4,4,,,data
+5,5,,,data
+6,6,,,data
+7,7,,,data
+8,8,,,data
+9,9,,,data
+10,10,,,data
+11,11,,,data
+12,12,,,data
+13,13,,,data
+14,14,,,data
+15,15,,,data
+16,16,,,data
+17,17,,,data
+18,18,,,data
+19,19,,,data
+20,20,,,data
+21,21,,,data
+22,22,,,data
+23,23,,,data
+24,24,,,data
+25,25,,,data
+26,26,,,data
+27,27,,,data
+28,28,,,data
+29,29,,,data
+30,30,,,data
+31,31,,,data
+32,32,,,data
+33,33,,,data
+34,34,,,data
+35,35,,,data
+36,36,,,data
+37,37,,,data
+38,38,,,data
+39,39,,,data
+40,40,,,data
+41,41,,,data
+42,42,,,data
+43,43,,,data
+44,44,,,data
+45,45,,,data
+46,46,,,data
+47,47,,,data
+48,48,,,data
+49,49,,,data
+50,50,,,data
+51,51,,,data
+52,52,,,data
+53,53,,,data
+54,54,,,data
+55,55,,,data
+56,56,,,data
+57,57,,,data
+58,58,,,data
+59,59,,,data
+60,60,,,data
+61,61,,,data
+62,62,,,data
+63,63,,,data
+64,64,,,data
+65,65,,,data
+66,66,,,data
+67,67,,,data
+68,68,,,data
+69,69,,,data
+70,70,,,data
+71,71,,,data
+72,72,,,data
+73,73,,,data
+74,74,,,data
+75,75,,,data
+76,76,,,data
+77,77,,,data
+78,78,,,data
+79,79,,,data
+80,80,,,data
+81,81,,,data
+82,82,,,data
+83,83,,,data
+84,84,,,data
+85,85,,,data
+86,86,,,data
+87,87,,,data
+88,88,,,data
+89,89,,,data
+90,90,,,data
+91,91,,,data
+92,92,,,data
+93,93,,,data
+94,94,,,data
+95,95,,,data
+96,96,,,data
+97,97,,,data
+98,98,,,data
+99,99,,,data
+100,100,,,data
+101,101,,,data
+102,102,,,data
+103,103,,,data
+104,104,,,data
+105,105,,,data
+106,106,,,data
+107,107,,,data
+108,108,,,data
+109,109,,,data
+110,110,,,data
+111,111,,,data
+112,112,,,data
+113,113,,,data
+114,114,,,data
+115,115,,,data
+116,116,,,data
