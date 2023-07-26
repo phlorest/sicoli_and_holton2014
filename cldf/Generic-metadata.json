@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "substitutions"
     },
-    "dc:title": "Phlorest phylogeny derived from Sicoli & Holton 2014 'Dene-Yenesian (Sicoli & Holton 2014)'",
+    "dc:title": "Phlorest phylogeny derived from Sicoli & Holton 2014 'Linguistic phylogenies support back-migration from Beringia to Asia'",
     "dcat:accessURL": "https://github.com/phlorest/sicoli_and_holton2014",
     "prov:wasDerivedFrom": [
         {
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/sicoli_and_holton2014",
             "rdf:type": "prov:Entity",
-            "dc:created": "dd3fe09",
+            "dc:created": "43b3d07",
             "dc:title": "Repository"
         },
         {
