@@ -1,12 +1,6 @@
 import pathlib
 
-import nexus
 import phlorest
-
-
-def fix_newick(p):
-    return nexus.NexusReader.from_string(
-        p.read_text(encoding='utf8').replace('prob(percent)', 'prob_percent'))
 
 
 def fix_newick(text):
