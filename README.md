@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Sicoli & Holton 2014 'Linguistic phylogenies support back-migration from Beringia to Asia'
 
 [![CLDF validation](https://github.com/phlorest/sicoli_and_holton2014/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/sicoli_and_holton2014/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250302.svg)](https://doi.org/10.5281/zenodo.8250302)
 
 ## How to cite
 
