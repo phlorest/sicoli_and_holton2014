@@ -10,6 +10,7 @@
     "scaling": "substitutions",
     "analysis": "bayesian",
     "family": "Dene-Yenesian",
+    "artefacts": ["raw/analysis"],
     "missing": {
         "characters": "not available."
     }
